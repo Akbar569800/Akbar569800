@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Akbar
-I want to make Instagram clone 
+I has make Instagram clone 
 
 
 <!---
